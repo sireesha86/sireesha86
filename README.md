@@ -17,6 +17,7 @@ Project 2
 
 This is a Capstone Project that offers users access to two different financial calculators: an investment calculator and a home loan repayment calculator. The project provides a simple interface for users to input relevant financial information and obtain calculated results based on their choice.
 
+https://github.com/sireesha86/Finance-Calculator.git
 
 Contact Me
 Feel free to reach out to me via my email or connect with me on my LinkedIn
